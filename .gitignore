@@ -1,0 +1,21 @@
+# Environment / secrets
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Chroma vector store (regenerated from source docs — optional to exclude)
+chroma_db/
+
+# OS/editor cruft
+.DS_Store
+.vscode/
