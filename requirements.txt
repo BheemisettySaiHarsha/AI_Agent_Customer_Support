@@ -3,6 +3,7 @@ langchain-openai
 langchain-community
 langchain-chroma
 chromadb
+langgraph
 openai
 python-docx
 tiktoken
